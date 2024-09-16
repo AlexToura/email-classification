@@ -1,4 +1,4 @@
-# email-classification-project
+# Email classification mini project
 
 In this project we try to classify emails using two Neural Networks with the Tensorflow lib and results are presented at corresponding graphs. The code was implemented at Google Collab platform.
 
